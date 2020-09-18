@@ -1,3 +1,6 @@
 [submodule "cse575_proj_ax"]
 	path = cse575_proj_ax
 	url = https://github.com/powerfulmandrew/cse575_proj_ax.git
+[submodule "cse_575_proj_mt"]
+	path = cse_575_proj_mt
+	url = https://github.com/mtompkins7225/cse_575_proj_mt.git
