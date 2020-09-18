@@ -4,3 +4,12 @@
 [submodule "cse_575_proj_mt"]
 	path = cse_575_proj_mt
 	url = https://github.com/mtompkins7225/cse_575_proj_mt.git
+[submodule "CSE575-ExoPlanet_Classification"]
+	path = CSE575-ExoPlanet_Classification
+	url = https://github.com/supradagn/CSE575-ExoPlanet_Classification.git
+[submodule "cse575_proj_jy"]
+	path = cse575_proj_jy
+	url = https://github.com/JamesYu5421/cse575_proj_jy.git
+[submodule "cse575_project_al"]
+	path = cse575_project_al
+	url = https://github.com/a-low/cse575_project_al.git
