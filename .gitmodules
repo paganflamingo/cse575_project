@@ -13,3 +13,6 @@
 [submodule "cse575_project_al"]
 	path = cse575_project_al
 	url = https://github.com/a-low/cse575_project_al.git
+[submodule "CSE575Proj"]
+	path = CSE575Proj
+	url = https://github.com/AbhikChowdhury6/CSE575Proj.git
